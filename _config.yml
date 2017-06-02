@@ -5,5 +5,5 @@ description: DO WHAT THE FUCK YOU WANT BUT DONT BLAME THE AUTHOR PUBLIC LICENCE
 permalink: /:year/:month/:day/:title/
 paginate: 10
 
-gems: [jekyll-paginate]
+gems: [jekyll][jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
