@@ -1,8 +1,10 @@
 ---
 layout: page
-title: The actual Text of the DusTBALL license
+title: License
 permalink: /license/
 ---
+
+## This is the text of the DusTBALL license
 
 ```
 DO WHAT THE FUCK YOU WANT BUT DON'T BLAME THE AUTHOR PUBLIC LICENCE
