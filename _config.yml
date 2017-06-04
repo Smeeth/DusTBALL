@@ -10,7 +10,7 @@ title: DusTBALL
 email: webmaster@dustball.tk
 description: >
   Do what the fuck yoU wanT But don'T BlAme the author pubLic License
-logo: ""
+logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dustball.tk" # the base hostname & protocol for your site
 paginate:	1 # The number of posts to show per page on your homepage
